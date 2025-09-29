@@ -1,0 +1,14 @@
+#container{
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content: stretch;
+    gap: 0px;
+}
+#container div{
+    height: 70px;
+    width: 70px;
+    border: 2px solid black;
+}
