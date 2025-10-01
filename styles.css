@@ -47,6 +47,14 @@ body{
     color: #ffffff;
     background-color: #006570;
 }
+.title{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: #67C090;
+    margin: 15px;
+}
 .footer{
     display: flex;
     justify-content: center;
